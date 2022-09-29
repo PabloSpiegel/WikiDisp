@@ -17,7 +17,7 @@ Sí, desde hace años me he puesto a comparar los artículos en inglés y españ
 
 * [ ] ¿Se trata de un problema que para solucionar requiera el despliegue
    de una aplicación en la nube?
-   
+
 Este no lo marco porque me parece que lo cumple pero no sé cómo justificarlo.
 Si tuviese que meter cosas para cumplir el requisito, añadiría la posibilidad de que el usuario almacene en una cuenta la información que ha obtenido un usuario y crear un historial almacenando como estaba un artículo o tema cada vez que se haya consultado
 
