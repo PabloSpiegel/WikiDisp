@@ -17,7 +17,7 @@
 * [ ]  ¿Los milestones son mínimos, es decir, incluyen un producto
    mínimamente viable para poder avanzar?
 * [ ]  ¿El milestone 0 es mínimo *y* viable?
-* [ ]  ¿Se indica claramente cómo comprobar la viabilidad del PMV de cada hito? Es
+* [?]  ¿Se indica claramente cómo comprobar la viabilidad del PMV de cada hito? Es
     decir, ¿se dice qué requisitos técnicos tiene que cumplir el producto de
     cada hito?
 * [ ] ¿Entre dos milestones consecutivos, no hay ningún PMV posible o por el
