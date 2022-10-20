@@ -1,4 +1,4 @@
-# sandunguert
+# WikiDisp
 Proyecto para la asignatura IV en el curso 22/23
 
 ##Descripción del problema
