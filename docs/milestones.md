@@ -1,14 +1,24 @@
-[M0]: creación de una estructura de datos para representar un artículo y su información asociada. estructura de datos para representar un tema. Lista de idiomas. Diccionario/map que relacione países con sus idiomas<!--Idiomas: 639 Países e ISO 3166 para los paises-->. También una estructura de que relaciones los códigos con el nombre completo del país o idioma.
-[M1]: procesamiento de diferencia entre palabras para el artículo. Si el número de palabras en un idioma es notablemente mayor que en otro, se considera que está más desarrollado.
-[M2]: procesamiento de diferencia entre número de apartados ¿hay una forma de enlazar unos con otros?
-[]:análisis de países desde donde se edita y  correlación con los idiomas que se suelen hablar allí
-<!-- comparación con el algoritmo de Flesh kincaid ¿fog?-->
-[]Comparación de número de referencias.
+[M0]: Creación de Lista de idiomas y Diccionario/mapa que relacione países con sus idiomas<!--Idiomas: 639 Países e ISO 3166 para los paises-->
 
-<!--visualización de los países donde se edita más un artículo para un idioma-->
-<!--correlacionar si en los países donde se edita un artículo suelen tienen un idioma distinto al del artículo.-->
-[M4]: para los artículos de un idioma - [ ] los análisis mencionados anteriormente para el conjunto de artículos que pertenezca a una misma categoría, dando la posibilidad de ordenar los artículos según
+[M1]: Creación una estructura de que relaciones los códigos con el nombre completo del país o idioma. Creación de una estructura de datos para representar un artículo y su información asociada. Crear otra ED para representar una categoría.
+
+[M2]: procesamiento de diferencia entre palabras para el artículo. Si el número de palabras en un idioma es notablemente mayor que en otro, se considera que está más desarrollado.
+
+[M3]: procesamiento de diferencia entre número de apartados ¿hay una forma de enlazar unos con otros?
+
+[M4]:análisis de países desde donde se edita y  correlación con los idiomas que se suelen hablar allí. Para cada idioma seleccionado se determina el porcentaje del artículo que se edita desde países donde el idioma no es una lengua nativa y cuál es es el porcentaje de ediciones donde sí lo sea.
+<!-- comparación con el algoritmo de Flesh kincaid ¿fog?-->
+
+[M5]: Comparación del número de referencias entre los dos idiomas.
+
+[M6]: Comparación de valoraciones según el sistema [ORES](https://www.mediawiki.org/wiki/ORES)
+
+[M7]: realizar los análisis del [M1] al [M5] para el conjunto de artículos dentro de una categoría en los idiomas seleccionados.
+
+[M8]: Evaluación para el conjunto de artículos.
+Determinar cuál idioma tiene mejor valoración para el conjunto de artículos analizado.
 <!--visaulización de las cosas en grupo-->
-[M5]: procesamiento de artículos sobre eventos recientes
-[M6]: comparación de ediciones en un periodo de tiempo determinado
-[M7]: inspección de vandalismos en las últimas ediciones de los dos idiomas.
+
+[M9]: aplicar los análisis del [M7] y [M8] a los artículos sobre eventos recientes.
+
+[M11]: aplicar los análisis del [M7] y [M8] a los artículos sobre eventos polémicos.
