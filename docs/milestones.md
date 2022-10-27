@@ -1,4 +1,4 @@
-[M0]: Creación de Lista de idiomas y Diccionario/mapa que relacione países con sus idiomas. Un idioma vendrá respresentado por una cadena en su código en la convención ISO 639 y un países por el código en ISO 3166. [HU001]<!--Idiomas: 639 Países e ISO 3166 para los paises-->
+[M0]: Creación de Lista de idiomas y una estructura que relacione países con sus idiomas. [HU001] <!--Un idioma vendrá rspresentado por una cadena en su código en la convención ISO 639 y un países por el código en ISO 3166.-->
 
 [M1]: Creación una estructura de que relaciones los códigos con el nombre completo del país o idioma. Creación de una estructura de datos para representar un artículo y su información asociada. Crear otra ED para representar una categoría.
 
