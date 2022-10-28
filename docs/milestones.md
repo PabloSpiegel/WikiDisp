@@ -1,24 +1,13 @@
-[M0]: Creación de Lista de idiomas y una estructura que relacione países con sus idiomas. [HU001] <!--Un idioma vendrá rspresentado por una cadena en su código en la convención ISO 639 y un países por el código en ISO 3166.-->
+[M0]: Lo que maría necesita es introducir un enlace a un artículo o a una categoría, seleccionar unos idiomas y que el programa haga análisis sobre estos.
 
-[M1]: Creación una estructura de que relaciones los códigos con el nombre completo del país o idioma. Creación de una estructura de datos para representar un artículo y su información asociada. Crear otra ED para representar una categoría.
+Este hito se considerará realizado cuando en el código se guarden debidamente los artículos, los idiomas y las categorías.
 
-[M2]: procesamiento de diferencia entre palabras para el artículo. Si el número de palabras en un idioma es notablemente mayor que en otro, se considera que está más desarrollado.
+[M1]: A [María](user-stories.md#HU001)(a le agilizaría su trabajo saber cada selección que hace qué idioma tiene más contenido, cuál usa más referencias respecto a los demás, y cuál tiene menos vandalismos.
 
-[M3]: procesamiento de diferencia entre número de apartados ¿hay una forma de enlazar unos con otros?
+Este hito se considerará finalizado cuando se hayan implementado métodos que determinen para selección qué idioma cumple mejor cada uno de los criterios mencionados.
 
-[M4]:análisis de países desde donde se edita y  correlación con los idiomas que se suelen hablar allí. Para cada idioma seleccionado se determina el porcentaje del artículo que se edita desde países donde el idioma no es una lengua nativa y cuál es es el porcentaje de ediciones donde sí lo sea.
-<!-- comparación con el algoritmo de Flesh kincaid ¿fog?-->
+[M2]: A [Libertad](user-stories.md#HU002) le gustaría saber cuanta gente edita la wikipedia en un idioma que no es el suyo.
 
-[M5]: Comparación del número de referencias entre los dos idiomas.
+El hito se considerará finalizado cuando haya métodos que examinen la procedencias contribuciones de un artículo en un idioma, y que señalen qué porcentaje vienen de un país en que el idioma seleccionado no sea nativo.
 
-[M6]: Comparación de valoraciones según el sistema [ORES](https://www.mediawiki.org/wiki/ORES)
-
-[M7]: realizar los análisis del [M1] al [M5] para el conjunto de artículos dentro de una categoría en los idiomas seleccionados.
-
-[M8]: Evaluación para el conjunto de artículos.
-Determinar cuál idioma tiene mejor valoración para el conjunto de artículos analizado.
-<!--visaulización de las cosas en grupo-->
-
-[M9]: aplicar los análisis del [M7] y [M8] a los artículos sobre eventos recientes.
-
-[M10]: aplicar los análisis del [M7] y [M8] a los artículos sobre eventos polémicos.
+[M3]: Para poder seleccionar artículos más fácilmente, implementar métodos para hacer los análisis de [M2] y [M3] para una categoría de la wikipedia, artículos polémicos, y artículos sobre eventos recientes. (Relacionado con las historias de [María](user-stories.md#HU001) y [Libertad](user-stories.md#HU001))
