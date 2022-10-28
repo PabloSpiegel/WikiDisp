@@ -8,6 +8,6 @@ Este hito se considerará finalizado cuando se hayan implementado métodos que d
 
 [M2]: A [Libertad](user-stories.md#HU002) le gustaría saber cuanta gente edita la wikipedia en un idioma que no es el suyo.
 
-El hito se considerará finalizado cuando haya métodos que examinen la procedencias contribuciones de un artículo en un idioma, y que señalen qué porcentaje vienen de un país en que el idioma seleccionado no sea nativo.
+El hito se considerará finalizado cuando haya métodos que examinen la procedencias contribuciones de una selección de artículos en un idioma, y que señalen qué porcentaje vienen de un país en que el idioma seleccionado no sea nativo.
 
 [M3]: Para poder seleccionar artículos más fácilmente, implementar métodos para hacer los análisis de [M2] y [M3] para una categoría de la wikipedia, artículos polémicos, y artículos sobre eventos recientes. (Relacionado con las historias de [María](user-stories.md#HU001) y [Libertad](user-stories.md#HU001))
