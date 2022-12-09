@@ -1,5 +1,5 @@
 package pkg
 
-type ConjuntoAnalisis struct{
+type ConjuntoArticulos struct{
 	ListaArticulos []Articulo
 }
