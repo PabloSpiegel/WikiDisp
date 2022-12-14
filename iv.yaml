@@ -1,3 +1,6 @@
 lenguaje: Go
 entidad: pkg/Articulo.go
 entidad: pkg/ConjuntoAnalisis.go
+automatizar:
+  fichero: Makefile
+  orden: make
