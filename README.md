@@ -13,10 +13,10 @@ Una vez visto como se haría para un único artículo, se podrían hacer los mis
 ## Gestión de dependecias
 Para gestionar las dependencias se usaran los módulos de `go`. Las dependencias guardaran los paquetes en el directorio `vendor`, para garantizar la reproducibilidad de las construcciones del proyecto.
 ## Gestión de tareas
-Se usará `make` para gestionar las tareas.
+Se usará `task` para gestionar las tareas.
 
 ### Tareas disponsibles
-* `make check` para comprobar la sintaxis del código.
+* `task check` para comprobar la sintaxis del código.
 
 
 ## Configuracion del repositorio

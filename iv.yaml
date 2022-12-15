@@ -1,5 +1,5 @@
 lenguaje: Go
 entidad: pkg/ConjuntoAnalisis.go
 automatizar:
-  fichero: Makefile
-  orden: make
+  fichero: Taskfile.yaml
+  orden: task

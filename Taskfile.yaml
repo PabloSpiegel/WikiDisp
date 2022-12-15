@@ -1,0 +1,10 @@
+
+version: '3'
+
+
+
+tasks:
+  check:
+    cmds:
+      - gofmt -e pkg/* > /dev/null
+    silent: true
