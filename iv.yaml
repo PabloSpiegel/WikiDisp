@@ -1,0 +1,5 @@
+lenguaje: Go
+entidad: pkg/ConjuntoAnalisis.go
+automatizar:
+  fichero: Taskfile.yaml
+  orden: task
