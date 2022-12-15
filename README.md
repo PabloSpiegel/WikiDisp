@@ -10,8 +10,14 @@ La más simple sería introducir la URL de un artículo y dos idiomas, y que la 
 
 Una vez visto como se haría para un único artículo, se podrían hacer los mismos análisis para los artículos que vaya sobre un tema, Una vez introducido (mediante un item de wikidata, por ejemplo) se enseña primero entre todos los que hay aquellos que tengan esa disparidad. Entre los idiomas seleccionados, se visualiza en qué idiomas hay más artículos con disparidad y diferencia de palabras acumulada. Por supuesto, se puede indiciar la cantidad de artículos que sean esbozos. Los mismos análisis pueden hacerse cogiendo como conjunto los artículos que traten sobre eventos recientes o que todavía están en curso.
 
-##Gestión de dependecias
-Para gestionar las dependencias se usaran los módulos de `go`. Las dependencias guardaran los paquetes en el directorio `vendor`, para garantizar la reproducibilidad de las construcciones del proyecto. 
+## Gestión de dependecias
+Para gestionar las dependencias se usaran los módulos de `go`. Las dependencias guardaran los paquetes en el directorio `vendor`, para garantizar la reproducibilidad de las construcciones del proyecto.
+## Gestión de tareas
+Se usará `make` para gestionar las tareas.
+
+### Tareas disponsibles
+* `make check` para comprobar la sintaxis del código.
+
 
 ## Configuracion del repositorio
 La configuración del repositorio con la url ssh se puede ver [aquí](Objetivo0/config.png) y la llave añadida a la cuenta de github se puede ver [aquí](Objetivo0/llave.png)
