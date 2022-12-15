@@ -15,7 +15,7 @@ Para gestionar las dependencias se usaran los módulos de `go`. Las dependencias
 ## Gestión de tareas
 Se usará `task` para gestionar las tareas.
 
-### Tareas disponsibles
+### Tareas disponibles
 * `task check` para comprobar la sintaxis del código.
 
 
