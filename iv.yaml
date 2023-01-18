@@ -1,2 +1,2 @@
 lenguaje: Go
-entidad: [pkg/ConjuntoAnalisis.go,pkg/ConjuntoAnalisis.go]
+entidad: [pkg/Analisis.go,pkg/Categoria.go]
